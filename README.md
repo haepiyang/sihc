@@ -13,4 +13,17 @@ cd sihc/
 ./sihc.py
 </pre>
 
+## Features
+* Change your IPv4 address (Use DHCP if no IP submitted)
+* Change your DNS (Use system default DNS if no DNS submitted)
+
+## OS Support
+* Debian
+* Ubuntu
+* Fedora (Under development)
+* Mint (Under development)
+* Elementary (Under development)
+* CentOS (Under development)
+* OpenSUSE (Under development)
+
 Enjoy!!!
