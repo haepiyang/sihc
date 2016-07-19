@@ -7,9 +7,11 @@ STILL IN DEVELOPMENT!!!
 Hope it will help ^^
 
 Instruction:
+<pre>
 cd ~/
 git clone https://github.com/haepiyang/sihc.git
 cd sihc/
 ./sihc.py
+</pre>
 
 Enjoy!!!
