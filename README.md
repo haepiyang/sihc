@@ -1,11 +1,9 @@
 # sihc
 Static IPv4 Configuration Helper
 
-It's just a small tool to help changing your IP address more quickly
-Hope it will help ^^
-### STILL IN DEVELOPMENT!!!
-
-
+<br>It's just a small tool to help changing your IP address more quickly
+<br>Hope it will help ^^
+<br>STILL IN DEVELOPMENT!!!
 
 ## Instruction:
 <pre>
